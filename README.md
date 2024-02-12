@@ -1,6 +1,6 @@
-#Title:[Tic Tac Toe]<br>
-##Group:[Group VII]<br>
-###Group Members:<br>
+Title:[Tic Tac Toe]<br>
+Group:[Group VII]<br>
+Group Members:<br>
 ------------------------------------------------------
 Name:                             | Id
 ------------------------------------------------------
