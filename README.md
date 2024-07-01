@@ -16,13 +16,11 @@ Responsive design for mobile and desktop devices
 ## Getting Started
 To run the Tic Tac Toe game locally, follow these steps:
 
-## Clone the repository:
-Copy
+1. Clone the repository:
 git clone https://github.com/YonasWorkneh/Tic_Tac.git
-Navigate to the project directory:
-Copy
+2. Navigate to the project directory:
 cd Tic_Tac
-Open the index.html file in your preferred web browser.
+3. Open the index.html file in your preferred web browser.
 Alternatively, you can visit the https://yonasworkneh.github.io/Tic_Tac/ to play the game directly in your browser.
 
 ## Contributing
