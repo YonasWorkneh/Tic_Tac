@@ -10,9 +10,9 @@ Player vs. Player mode
 Automatic win detection and game reset
 Responsive design for mobile and desktop devices
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Getting Started
 To run the Tic Tac Toe game locally, follow these steps:
 
