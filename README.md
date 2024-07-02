@@ -1,7 +1,7 @@
 # Tic Tac Toe
 Tic Tac Toe is a classic two-player game where the players take turns placing their marks (usually X and O) on a 3x3 grid. The goal is to get three of your marks in a row (horizontally, vertically, or diagonally) before your opponent.
 
-##Live Demo
+## Live Demo
 You can play the Tic Tac Toe game by visiting the https://yonasworkneh.github.io/Tic_Tac/.
 
 ## Features
